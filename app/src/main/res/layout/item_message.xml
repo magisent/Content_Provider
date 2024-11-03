@@ -6,15 +6,15 @@
     android:padding="8dp">
 
     <TextView
-        android:id="@+id/textViewSender"
+        android:id="@+id/tvNguoiGui"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Sender"
+        android:text="Người gửi"
         android:textStyle="bold" />
 
     <TextView
-        android:id="@+id/textViewBody"
+        android:id="@+id/tvNoiDung"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Message body" />
+        android:text="Nội dung tin nhắn" />
 </LinearLayout>

@@ -40,8 +40,8 @@ public class MessageAdapter extends RecyclerView.Adapter<MessageAdapter.MessageV
 
         public MessageViewHolder(View itemView) {
             super(itemView);
-            senderTextView = itemView.findViewById(R.id.textViewSender);
-            bodyTextView = itemView.findViewById(R.id.textViewBody);
+            senderTextView = itemView.findViewById(R.id.tvNguoiGui);
+            bodyTextView = itemView.findViewById(R.id.tvNoiDung);
         }
     }
 }

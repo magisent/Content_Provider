@@ -11,7 +11,7 @@
 
     <!-- Hiển thị tên và MSV -->
     <TextView
-        android:id="@+id/tvHeader"
+        android:id="@+id/tvTen_Msv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Nguyễn Văn Phong - 22115053122130"
